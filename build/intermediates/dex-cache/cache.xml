@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/cd4d58146d0efe96e7b21827f5ada10fbb842c0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_678495aaacf7b2fdb246e95a0e2e8596a5ab1174.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_114880e079442fac3791dd72fe995fcb6dfe651e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/be73d43ce5ab9e25999a36f7f38e5e31fc7976e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_42671d03b4bfac5dece0d9ee6f351456a2251209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/f1dae17fa46dc40b59d86c08708b9eddc5ae9a8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_0faa6ac476937f09a75d6914ae91300a8df40d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/cd9b8c1c3fb24f316dc4b3d6e5d5551723c6d98e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_51881bb9ae3fbeea22122605dfdeac1930de66c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/637206a4a8363f70111c208efaf72e007bd7126e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_fd1999f9b51f742b9af28fff7335ec3f845f5539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/24eedf7c82ef7d938eb022cc968d00172bd58d15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_31685008cad90a79773c3973ba1dae7211ae5cb3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45566c46b26647b377477251b02586f71a2a26c9">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d3e34329c3a591bbd7117f9ed7e308766080ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/310ff95de476d296eda99fd6c578af141a938dcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_f9d5a91ad078bb8bbc78626694f3f4a85382df3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahkhan/.android/build-cache/6f3d106b1bc3832acce9d311596ab154529860c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/shahkhan/AndroidStudioProjects/FriendFinder/app/build/intermediates/pre-dexed/debug/classes_3229326640818f0b3723dd40b4490f66a487e4a4.jar" />
+    </item>
+
+</items>

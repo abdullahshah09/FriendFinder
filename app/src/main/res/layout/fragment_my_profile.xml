@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.teamc.friendfinder.MyProfile">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+        <ImageView
+            android:id="@+id/Profile_Picture"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+    <Button
+        android:id="@+id/upload_photo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/name_and_age_field"
+        android:layout_marginEnd="26dp"
+        android:background="@drawable/round_button"
+        android:gravity="center_vertical|center_horizontal"
+        android:foreground="@android:drawable/ic_menu_upload"
+        android:textColor="#fff"
+        tools:ignore="RtlCompat" />
+
+
+            <TextView
+                android:id="@+id/name_and_age_field"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_height="50dp"
+                android:layout_below="@id/Profile_Picture"
+                android:text="Abdullah, 21" />
+
+    <ImageView
+        android:id="@+id/onlineStat"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Profile_Picture"
+        android:layout_toRightOf="@+id/name_and_age_field"
+        />
+
+
+    <Button
+        android:id="@+id/audioRecorder"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/name_and_age_field"
+        android:text="TAP TO HOLD" />
+
+    <ImageButton
+        android:id="@+id/hobby_1_img_btn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/audioRecorder"
+        />
+
+    <ImageButton
+        android:id="@+id/hobby_2_img_btn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/audioRecorder"
+        android:layout_toRightOf="@id/hobby_1_img_btn"
+        android:layout_marginLeft="20dp"
+        />
+
+    <ImageButton
+        android:id="@+id/hobby_3_img_btn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/audioRecorder"
+        android:layout_toRightOf="@id/hobby_2_img_btn"
+        android:layout_marginLeft="20dp"
+         />
+
+</RelativeLayout>
